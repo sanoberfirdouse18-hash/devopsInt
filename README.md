@@ -1,2 +1,0 @@
-# devopsInt
-simple registration page
